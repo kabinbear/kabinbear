@@ -1,12 +1,15 @@
 ### Hi there 👋
 <a href="#">
-  <img align="right" alt="kabinbear's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wztlink1013&count_private=true&include_all_commits=true&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
+  <img align="right" alt="kabinbear's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kabinbear&count_private=true&include_all_commits=true&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
 </a>
 
 <a href="#">
-  <img align="right" alt="kabinbear's Github Stats" src="https://git-stats.willianrod.com/api/wakatime?username=wztlink1013&count_private=true&include_all_commits=true&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
+  <img align="right" alt="kabinbear's Github Stats" src="https://git-stats.willianrod.com/api/wakatime?username=kabinbear&count_private=true&include_all_commits=true&show_icons=true&title_color=2196f3&icon_color=2196f3&text_color=4c4948&bg_color=ffffff">
 </a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabinbear&layout=compact)](https://github.com/kabinbear/kabinbear/edit/main/README.md)
+   
+<a href="#"><img align="right" alt="kabinbear's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabinbear&layout=compact">
+</a>
+(https://github-readme-stats.vercel.app/api/top-langs/?username=kabinbear&layout=compact)](https://github.com/kabinbear/kabinbear/edit/main/README.md)
 #### 📄 **Student** / 🎨 **Blogger** / 💻 **Developer**
 
 - 🔭 I’m currently working on Front End 
